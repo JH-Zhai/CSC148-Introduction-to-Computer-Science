@@ -1,0 +1,192 @@
+config_001_10.json events_no_express.txt:
+{'num_customers': 12, 'total_time': 519, 'max_wait': 499}
+
+config_001_10.json events_one_at_a_time.txt:
+{'num_customers': 3, 'total_time': 24, 'max_wait': 6}
+
+config_001_10.json events_one.txt:
+{'num_customers': 1, 'total_time': 72, 'max_wait': 62}
+
+config_001_10.json events_two.txt:
+{'num_customers': 2, 'total_time': 31, 'max_wait': 21}
+
+config_010_10.json events_one_at_a_time.txt:
+{'num_customers': 3, 'total_time': 21, 'max_wait': 3}
+
+config_010_10.json events_one.txt:
+{'num_customers': 1, 'total_time': 41, 'max_wait': 31}
+
+config_010_10.json events_two.txt:
+{'num_customers': 2, 'total_time': 18, 'max_wait': 8}
+
+config_100_01.json events_no_express.txt:
+{'num_customers': 12, 'total_time': 262, 'max_wait': 257}
+
+config_100_01.json events_one_at_a_time.txt:
+{'num_customers': 3, 'total_time': 21, 'max_wait': 3}
+
+config_100_01.json events_one.txt:
+{'num_customers': 1, 'total_time': 41, 'max_wait': 31}
+
+config_100_01.json events_two.txt:
+{'num_customers': 2, 'total_time': 18, 'max_wait': 8}
+
+config_100_10.json events_no_express.txt:
+{'num_customers': 12, 'total_time': 262, 'max_wait': 242}
+
+config_100_10.json events_one_at_a_time.txt:
+{'num_customers': 3, 'total_time': 21, 'max_wait': 3}
+
+config_100_10.json events_one.txt:
+{'num_customers': 1, 'total_time': 41, 'max_wait': 31}
+
+config_100_10.json events_two.txt:
+{'num_customers': 2, 'total_time': 18, 'max_wait': 8}
+
+config_111_01.json events_base.txt:
+{'num_customers': 6, 'total_time': 87, 'max_wait': 22}
+
+config_111_01.json events_mixtures.txt:
+{'num_customers': 16, 'total_time': 428, 'max_wait': 418}
+
+config_111_01.json events_no_express.txt:
+{'num_customers': 12, 'total_time': 179, 'max_wait': 174}
+
+config_111_01.json events_one_at_a_time.txt:
+{'num_customers': 3, 'total_time': 21, 'max_wait': 3}
+
+config_111_01.json events_one_close.txt:
+{'num_customers': 4, 'total_time': 21, 'max_wait': 18}
+
+config_111_01.json events_one.txt:
+{'num_customers': 1, 'total_time': 41, 'max_wait': 31}
+
+config_111_01.json events_two.txt:
+{'num_customers': 2, 'total_time': 17, 'max_wait': 7}
+
+config_111_10.json events_base.txt:
+{'num_customers': 6, 'total_time': 87, 'max_wait': 22}
+
+config_111_10.json events_mixtures.txt:
+{'num_customers': 16, 'total_time': 390, 'max_wait': 266}
+
+config_111_10.json events_no_express.txt:
+{'num_customers': 12, 'total_time': 301, 'max_wait': 281}
+
+config_111_10.json events_one_at_a_time.txt:
+{'num_customers': 3, 'total_time': 21, 'max_wait': 3}
+
+config_111_10.json events_one_close.txt:
+{'num_customers': 4, 'total_time': 21, 'max_wait': 18}
+
+config_111_10.json events_one.txt:
+{'num_customers': 1, 'total_time': 41, 'max_wait': 31}
+
+config_111_10.json events_two.txt:
+{'num_customers': 2, 'total_time': 17, 'max_wait': 7}
+
+config_300_01.json events_base.txt:
+{'num_customers': 6, 'total_time': 76, 'max_wait': 11}
+
+config_300_01.json events_mixtures.txt:
+{'num_customers': 16, 'total_time': 217, 'max_wait': 207}
+
+config_300_01.json events_no_express.txt:
+{'num_customers': 12, 'total_time': 102, 'max_wait': 97}
+
+config_300_01.json events_one_at_a_time.txt:
+{'num_customers': 3, 'total_time': 21, 'max_wait': 3}
+
+config_300_01.json events_one_close.txt:
+{'num_customers': 4, 'total_time': 12, 'max_wait': 9}
+
+config_300_01.json events_one.txt:
+{'num_customers': 1, 'total_time': 41, 'max_wait': 31}
+
+config_300_01.json events_two.txt:
+{'num_customers': 2, 'total_time': 17, 'max_wait': 7}
+
+config_300_10.json events_base.txt:
+{'num_customers': 6, 'total_time': 76, 'max_wait': 11}
+
+config_300_10.json events_mixtures.txt:
+{'num_customers': 16, 'total_time': 198, 'max_wait': 94}
+
+config_300_10.json events_no_express.txt:
+{'num_customers': 12, 'total_time': 98, 'max_wait': 78}
+
+config_300_10.json events_one_at_a_time.txt:
+{'num_customers': 3, 'total_time': 21, 'max_wait': 3}
+
+config_300_10.json events_one_close.txt:
+{'num_customers': 4, 'total_time': 12, 'max_wait': 9}
+
+config_300_10.json events_one.txt:
+{'num_customers': 1, 'total_time': 41, 'max_wait': 31}
+
+config_300_10.json events_two.txt:
+{'num_customers': 2, 'total_time': 17, 'max_wait': 7}
+
+config_333_01.json events_base.txt:
+{'num_customers': 6, 'total_time': 76, 'max_wait': 11}
+
+config_333_01.json events_mixtures.txt:
+{'num_customers': 16, 'total_time': 143, 'max_wait': 48}
+
+config_333_01.json events_no_express.txt:
+{'num_customers': 12, 'total_time': 93, 'max_wait': 80}
+
+config_333_01.json events_one_at_a_time.txt:
+{'num_customers': 3, 'total_time': 21, 'max_wait': 3}
+
+config_333_01.json events_one_close.txt:
+{'num_customers': 4, 'total_time': 12, 'max_wait': 9}
+
+config_333_01.json events_one.txt:
+{'num_customers': 1, 'total_time': 41, 'max_wait': 31}
+
+config_333_01.json events_two.txt:
+{'num_customers': 2, 'total_time': 17, 'max_wait': 7}
+
+config_333_10.json events_base.txt:
+{'num_customers': 6, 'total_time': 76, 'max_wait': 11}
+
+config_333_10.json events_mixtures.txt:
+{'num_customers': 16, 'total_time': 143, 'max_wait': 48}
+
+config_333_10.json events_no_express.txt:
+{'num_customers': 12, 'total_time': 115, 'max_wait': 95}
+
+config_333_10.json events_one_at_a_time.txt:
+{'num_customers': 3, 'total_time': 21, 'max_wait': 3}
+
+config_333_10.json events_one_close.txt:
+{'num_customers': 4, 'total_time': 12, 'max_wait': 9}
+
+config_333_10.json events_one.txt:
+{'num_customers': 1, 'total_time': 41, 'max_wait': 31}
+
+config_333_10.json events_two.txt:
+{'num_customers': 2, 'total_time': 17, 'max_wait': 7}
+
+config_642_05.json events_base.txt:
+{'num_customers': 6, 'total_time': 76, 'max_wait': 11}
+
+config_642_05.json events_mixtures.txt:
+{'num_customers': 16, 'total_time': 143, 'max_wait': 48}
+
+config_642_05.json events_no_express.txt:
+{'num_customers': 12, 'total_time': 68, 'max_wait': 48}
+
+config_642_05.json events_one_at_a_time.txt:
+{'num_customers': 3, 'total_time': 21, 'max_wait': 3}
+
+config_642_05.json events_one_close.txt:
+{'num_customers': 4, 'total_time': 12, 'max_wait': 9}
+
+config_642_05.json events_one.txt:
+{'num_customers': 1, 'total_time': 41, 'max_wait': 31}
+
+config_642_05.json events_two.txt:
+{'num_customers': 2, 'total_time': 17, 'max_wait': 7}
+
